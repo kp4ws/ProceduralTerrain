@@ -1,7 +1,7 @@
 # ProceduralTerrain
 Scripts for generating a procedural terrain mesh within Unity.
 
-##### BACKSTORY #####
+***BACKSTORY***<br/>
 For my Emerging Trends course at SAIT we were required to create two blog posts about new trends in technology. 
 I chose ****procedural terrain**** as my topic and I've provided links to my blogs below.
 
