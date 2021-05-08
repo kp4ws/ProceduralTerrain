@@ -1,7 +1,5 @@
 # ProceduralTerrain
 ***BACKSTORY***<br/>
-For my Emerging Trends course at SAIT we were required to create two blog posts about new trends in technology. 
-I chose **procedural terrain** as my topic and I've provided links to my blogs below.
+I created this project to demonstrate **procedural terrain generation** for my 2nd blog post within my Emerging Trends course at SAIT. This course required us to research new trends in technology, and I chose **Procedural Generation.**
 
-**1st Blog:** https://kentpawson123.medium.com/procedural-generation-an-overview-1b054a0f8d41 <br/>
-**2nd Blog:** https://kentpawson123.medium.com/procedural-generation-implementation-d9472d053cef
+**Link to 2nd blog post:** https://kentpawson123.medium.com/procedural-generation-implementation-d9472d053cef
